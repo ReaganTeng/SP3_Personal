@@ -1,3 +1,10 @@
+How to play project:
+1. Set app as startup project
+2. Build project is vs community
+3. go to debug folder in root folder
+4. press 'App'
+
+
 # SP3_2Dgame
  
 Storyline
